@@ -1,7 +1,7 @@
 # Mobius4_code_dhtlight
 using Mobius4
 
+<img width="1164" height="684" alt="image" src="https://github.com/user-attachments/assets/2a55611e-fe5d-4f57-864e-4986391b9394" />
 
-<img width="1308" height="734" alt="image" src="https://github.com/user-attachments/assets/522ecc26-8821-4eec-8e66-c92ee28ec59a" />
 
 
